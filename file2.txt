@@ -1,0 +1,2 @@
+This is a sample text file created for practice with Git and DevOps workflows.
+Feel free to add, modify, or remove content as needed for your exercises.
